@@ -1,10 +1,10 @@
 (function () {
   // TODO edit
   const dataFolderPath = '/chheh';
-  const dataNamePrefix = '/TJTST1_';
-  const dataNameNumberCount = 3;
+  const dataNamePrefix = '/1931TOGCGK_Page_';
+  const dataNameNumberCount = 4;
   const dataNameSuffix = '.jpg';
-  const lastPageNumber = 12;
+  const lastPageNumber = 1237;
 
   let imgSources = [];
   const imgSourcesMin = 1;
