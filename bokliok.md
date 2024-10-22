@@ -16,7 +16,7 @@ title: 目錄
 - [第一章 發音](./chheh/?page=39){:target="_blank"}
 - [第二章 音調](./chheh/?page=45){:target="_blank"}
 - [第三章 單語集](./chheh/?page=71){:target="_blank"}
-- [第四章 講話法（一）](./chheh/?page=205){:target="_blank"}
+- [第四章 講話法（一）](./chheh/?page=203){:target="_blank"}
 - [第五章 講話法（二）](./chheh/?page=330){:target="_blank"}
 - [第六章 講話法（三）](./chheh/?page=404){:target="_blank"}
 - [第七章 講話法（四）](./chheh/?page=451){:target="_blank"}
